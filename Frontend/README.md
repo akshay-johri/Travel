@@ -1,5 +1,5 @@
 TO CREATE REACT APP:
-npm install create-react-app
+npm install create-react-app,,
 npx create-react-app my-react-app
 -----Run Above Commands To download Node Modules...As the Size is Bigger thats why it cant be updated--------
 
